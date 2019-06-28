@@ -1,0 +1,64 @@
+
+body {
+    background: white;
+}
+
+h2 {
+    font-weight: 300 !important;
+    color: #4A77AA !important;
+}
+
+ul.nav li a, ul.nav li a:visited {
+    color: #95B4DE !important;
+}
+
+ul.nav li a:hover, ul.nav li a:active {
+    color: white !important;
+}
+
+#smalltext {
+    font-size: 11px;
+}
+
+#footertext {
+    color: white
+}
+
+a:link { 
+    color: #6c96c6;
+}
+
+a:visited { 
+    color: #6c96c6;
+}
+
+#menubar nav ul li a:hover {
+    color: white;
+}   
+
+#name {
+    font-family: 'Mr Dafoe';
+    color: white;
+    font-size: 38px;
+    margin: 0 30px 0 0;
+}
+
+#footer {
+    background-color: #1e2e3d;
+    width: 100%;
+    height: 50px;
+    border-top: 4px solid #95B4DE;
+    bottom: 0;
+    position: fixed;
+}
+
+#footertext {
+    position: relative;
+    color: #fff;
+    font-size: 11px;
+    width: 960px;
+    margin: 0 auto;
+    left: -60px;
+    top: 18px;
+}
+
